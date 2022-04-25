@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+# About Me 
 
-You can use the [editor on GitHub](https://github.com/firecracker80/reading-notes/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+> Hello! My name is, Yajahira, Yari for short. I am an army veteran and I have a web and graphic design business. It's only a year old. Learning to code will give me the opportunity to improve my design, provide better services, and grow my client base.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## What is **Growth Mindset** to me?
 
-### Markdown
+> *Growth mindset* is having the belief that we have an unlimited capability of learning new things. All we need is the opportunity, the time, and an unlimited supply of perseverance.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Reminders For Success!
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/firecracker80/reading-notes/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+1. Never try to do everything all at once, break it down into sections.
+2. Step away when frustration sets and come back to it when your mind and mood is fresh.
+3. This is not a race, it's a marathon! So take your time.
