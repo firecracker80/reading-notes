@@ -3,6 +3,10 @@
 # About Me 
 
 > Hello! My name is, Yajahira, Yari for short. I am an army veteran and I have a web and graphic design business. It's only a year old. Learning to code will give me the opportunity to improve my design, provide better services, and grow my client base.
+> Contact info:
+> - yari@dt-cs.com
+> - (229) 234-0373
+> - www.dt-cs.com 
 
 > <https://github.com/firecracker80>
 
