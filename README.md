@@ -7,7 +7,7 @@
 > Contact info:
 > - yari@dt-cs.com
 > - (229) 234-0373
-> - <dt-cs.com> 
+> - <https://dt-cs.com> 
 
 > <https://github.com/firecracker80>
 
