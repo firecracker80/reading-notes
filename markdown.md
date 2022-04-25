@@ -6,7 +6,7 @@
 Some examples of the symbol commands:
 
 1. ** is used when you want to bold a word or phrase.
-2. * is used to italicize.
+2. A single asterick is used to italicize.
 3. < > are used to create a hyperlink.
 4. (>) is used to create a blockquote (it looks like a shaded indented box).
 
