@@ -3,23 +3,22 @@
 # About Me 
 
 > Hello! My name is, Yajahira Velazquez, Yari for short. I am an army veteran and I have a web and graphic design business. It's only a year old. Learning to code will give me the opportunity to improve my design, provide better services, and grow my client base.
-
+>
+> As I begin my new role as a trained developer, I would like to work with other industry professionals. I believe this will allow me the opportunity to experience working on a team, network, and gain the experience required.
+>
+> <br/>
+>
 > Contact info:
 > - yari@dt-cs.com
 > - (229) 234-0373
 > - <https://dt-cs.com> 
+>
+> GitHub Profile: <https://github.com/firecracker80>
 
-> <https://github.com/firecracker80>
-
-## What is **Growth Mindset** to me?
-
-> *Growth mindset* is having the belief that we have an unlimited capability of learning new things. All we need is the opportunity, the time, and an unlimited supply of perseverance.
-
-### Reminders For Success!
-
-1. Never try to do everything all at once, break it down into sections.
-2. Step away when frustration sets and come back to it when your mind and mood is fresh.
-3. This is not a race, it's a marathon! So take your time.
-
-[Check On Learning](markdown.md)          
-[Text Editor](editors.md)
+<br/><br/>
+>Table of Contents
+>
+>[Mindset](mindset.md) <br/>
+[Markdown Syntax](markdown.md) <br/>
+[Text Editor](editors.md)<br/>
+[Git](git.md)
