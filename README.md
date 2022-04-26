@@ -21,4 +21,4 @@
 2. Step away when frustration sets and come back to it when your mind and mood is fresh.
 3. This is not a race, it's a marathon! So take your time.
 
-[Check On Learning](markdown.md)
+[Check On Learning](markdown.md). [Text Editor] (
