@@ -46,8 +46,21 @@
 > Basically this the terminal where you will enter commands, get another prompt, then enter more commands. This will continue like this until you complete your operation. In the terminal is a shell that will dictate the terminals behavior and appearance. The most common one is called, bash (Bourne again shell). Now these commands that have been entered, are saved in a history. This allows you the opportunity to search through them and edit them.
 
 > - Basic Navigation
->   - pwd (Print Working Directory)- it tells you which directory you're working in.
->   - ls (List)- tells you what is within that directory
+>   - pwd (Print Working Directory) - it tells you which directory you're working in.
+>   - ls (List) - tells you what is within that directory
 > - Paths
 >   - it's a way to get to a file or directory
->   -   
+>   - it's a hierarchical structure that begins with a root directory (/) followed by subdirectories.
+>   - 2 types:
+>     - **Absolute** - specifies the location as it relates to the root directory, easily idenfiable because they all begin with (/).
+>     - **Realtive** - specifies the location based on where you are currenty at in the system; these don't have a (/).  
+>   -Additional tools:
+>     - ~ (tilde) - this a shortcut to your home directory
+>     - . (dot) - a shortcut that references your current directory
+>     - .. (dotdot) - shortcut that references your parent directory
+
+# Files
+
+> In Linux, everything is a file (from the computer to created files). Linux doesn't care what type of extension the file is using, all it knows that it is a file. It identifies the type of file by looking at the file. You could even write a file using a different file extension and it would read it as what it actually is, because it looked at the file not the extension.
+>
+> Linux is also case sensitive. This allows for the optionto use the same file name, since it can be written differently depending on which letters are upper/lowercase.
