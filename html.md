@@ -66,6 +66,7 @@
 >   - Ex. </img src="file">
 >
 <br/><br/>
+
 # Semantics
 
 >This is the meaning of a piece of code (i.e effect of the code or the prupose of the code).
@@ -79,6 +80,7 @@
 > - Mirrors the appropriate custom element or component naming.
 >
 <br/><br/>
+
 # Sematic Elements
 >
 > - </article>
