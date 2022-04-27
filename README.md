@@ -22,4 +22,7 @@
 [Markdown Syntax](markdown.md) <br/>
 [Text Editor](editors.md)<br/>
 [Git](git.md)<br/>
-[HTML](html.md)
+[HTML](html.md)<br/>
+[CSS](css.md)<br/>
+[JS](javascript.md)
+
