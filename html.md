@@ -79,7 +79,7 @@
 > - Mirrors the appropriate custom element or component naming.
 >
 <br/><br/>
-## Sematic Elements
+# Sematic Elements
 >
 > - </article>
 > - </aside>
