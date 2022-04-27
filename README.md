@@ -21,5 +21,5 @@
 >[Mindset](mindset.md) <br/>
 [Markdown Syntax](markdown.md) <br/>
 [Text Editor](editors.md)<br/>
-[Git](git.md)
+[Git](git.md)<br/>
 [HTML](html.md)
