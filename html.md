@@ -53,7 +53,7 @@
 > - Opening tag
 > - Closing tag
 > - Attribute
->   - ex. '</p class="editor-note">Message here</p>'
+>   - ex. </p class="editor-note">Message here</p>
 > - Content
 >
 > ## Nesting Elements
@@ -63,7 +63,7 @@
 > ## Empty Element
 >
 >these possess not content, nor do they have a closing tag.
->   - Ex. '</img src="file">
+>   - Ex. </img src="file">
 >
 <br/><br/>
 # Semantics
@@ -78,18 +78,19 @@
 > - Give insight as to the type of data thatis going to populate.
 > - Mirrors the appropriate custom element or component naming.
 >
-> ## Sematic Elements
+<br/><br/>
+## Sematic Elements
 >
-> - '</article>'
-> - '</aside>'
-> - '</details>'
-> - '</figcaption>'
-> - '</figure>'
-> - '</footer>'
-> - '</header>'
-> - '</main>'
-> - '</mark>'
-> - '</nav>'
-> - '</section>'
-> - '</summary>'
-> - '</time>'
+> - </article>
+> - </aside>
+> - </details>
+> - </figcaption>
+> - </figure>
+> - </footer>
+> - </header>
+> - </main>
+> - </mark>
+> - </nav>
+> - </section>
+> - </summary>
+> - </time>
