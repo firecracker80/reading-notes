@@ -24,7 +24,7 @@
 [Git](git.md)<br/>
 [HTML](html.md)<br/>
 [CSS](css.md)<br/>
-[JS](javascript.md)
-[Programming](programming.md)
+[JS](javascript.md)<br/>
+[Programming](programming.md)<br/>
 [Loops](loops.md)
 
