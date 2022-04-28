@@ -25,4 +25,6 @@
 [HTML](html.md)<br/>
 [CSS](css.md)<br/>
 [JS](javascript.md)
+[Programming](programming.md)
+[Loops](loops.md)
 
