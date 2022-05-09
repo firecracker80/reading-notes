@@ -18,20 +18,20 @@
 <br/><br/>
 >Code 102 Reading Notes
 >
->[Mindset](mindset.md) <br/>
-[Markdown Syntax](markdown.md) <br/>
-[Text Editor](editors.md)<br/>
-[Git](git.md)<br/>
-[HTML](html.md)<br/>
-[CSS](css.md)<br/>
-[JS](javascript.md)<br/>
-[Programming](programming.md)<br/>
-[Loops](loops.md)<br/>
+>[Mindset](102/mindset.md) <br/>
+[Markdown Syntax](102/markdown.md) <br/>
+[Text Editor](102/editors.md)<br/>
+[Git](102/git.md)<br/>
+[HTML](102/html.md)<br/>
+[CSS](102/css.md)<br/>
+[JS](102/javascript.md)<br/>
+[Programming](102/programming.md)<br/>
+[Loops](102/loops.md)<br/>
 
 <br/><br/>
 >Code 201 Reading Notes
 >
->[Reading Notes Class 1](class-01.md)<br/>
+>[Reading Notes Class 1](201/class-01.md)<br/>
 >Reading Notes Class 2<br/>
 >Reading Notes Class 3<br/>
 >Reading Notes Class 4<br/>
