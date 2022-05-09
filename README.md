@@ -16,7 +16,7 @@
 > GitHub Profile: <https://github.com/firecracker80>
 
 <br/><br/>
->Table of Contents
+>Code 102 Reading Notes
 >
 >[Mindset](mindset.md) <br/>
 [Markdown Syntax](markdown.md) <br/>
@@ -26,5 +26,23 @@
 [CSS](css.md)<br/>
 [JS](javascript.md)<br/>
 [Programming](programming.md)<br/>
-[Loops](loops.md)
+[Loops](loops.md)<br/>
 
+<br/><br/>
+>Code 201 Reading Notes
+>
+>Reading Notes Class 1
+>Reading Notes Class 2
+>Reading Notes Class 3
+>Reading Notes Class 4
+>Reading Notes Class 5
+>Reading Notes Class 6
+>Reading Notes Class 7
+>Reading Notes Class 8
+>Reading Notes Class 9
+>Reading Notes Class 10
+>Reading Notes Class 11
+>Reading Notes Class 12
+>Reading Notes Class 13
+>Reading Notes Class 14
+>Reading Notes Class 15
