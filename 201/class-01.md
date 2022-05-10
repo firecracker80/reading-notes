@@ -10,4 +10,4 @@
 
 ## Things I want to know more about...
 
->I still struggle to understand <'div'> and JS. More so JS than anything else. Setting up the code and giving the variables value is not as clear and HTML and CSS. I feel it is more like having a conversation that it is, writing a command.
+>I still struggle to understand `<div>` and JS. More so JS than anything else. Setting up the code and giving the variables value is not as clear and HTML and CSS. I feel it is more like having a conversation that it is, writing a command.
