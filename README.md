@@ -33,7 +33,7 @@
 >
 >[Reading Notes Class 1](201/class-01.md)<br/>
 >[Reading Notes Class 2](201/class-02.md)<br/>
->Reading Notes Class 3<br/>
+>[Reading Notes Class 3](201/class-03.md)<br/>
 >Reading Notes Class 4<br/>
 >Reading Notes Class 5<br/>
 >Reading Notes Class 6<br/>
