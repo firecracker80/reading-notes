@@ -32,8 +32,7 @@
 <a href="102/javascript.md">JS<br/>
 <a href="102/programming.md">Programming<br/>
 <a href="102/loops.md">Loops<br/>
-<br/><br/><br/><br/><br/><br/>
-</td>
+<br/><br/><br/><br/><br/><br/></td>
   <td><a href="201/class-01.md">Reading Notes Class 1<br/>
 <a href="201/class-02.md">Reading Notes Class 2<br/>
 <a href="201/class-03.md">Reading Notes Class 3<br/>
