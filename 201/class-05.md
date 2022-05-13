@@ -1,5 +1,9 @@
 # Reading Assignment 5
 
+>Images add style and dimension to your page. It helps with visualization of what the creator is trying to convey.
+
+<br/>
+
 >Images (img) can be place anywhere on the page. The size, alignment, and title can be configured within the html tag. It must always have a src attribute and an alt attribute.
 > - Be sure to save images in the correct format and size (pixels). 
 > - Use jpeg when photo has lots of different colors.
@@ -21,3 +25,7 @@
 >Text on a page can be adjusted for size,font, spacing, weight, etc.
 > - Typeface - it is the font. It can be displayed according weight (light, medium, bold, black), style (normal, italic, oblique), or stretch (condensed, reg,ext). The browser will only display the typeface if it is already installed in the user's computer. Keep in mind, some require you to have the right license in order to use them.
 > - Type Scales - developed by europeans in the 16th century, and has been considered pleasing to the eye for hundreds of years. It is a ratio, referred to as points. The default text size on a browser is 16 pt (pixels).
+
+## Things I want to know more about...
+
+>I want to practice more than learn more about color combinations. Although learning to combine colors and the pyschology behind it is beneficial.
