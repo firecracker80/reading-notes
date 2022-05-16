@@ -37,3 +37,7 @@
 > - Text node - the text within the element; can't have children, if the element contains achild element and text, the child element belongs to the containing element.
 >
 >DOM queries are methods that help find elememts within the DOM tree.
+
+## Things I want to know more about...
+
+>I would really like to know more on the differences between immutable and mutable, and how to identify them.
