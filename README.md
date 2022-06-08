@@ -17,8 +17,9 @@
 
 <br/><br/>
 
+# Reading Notes
 
->Code 102 Reading Notes
+> ## Code 102 - Intro to Software Development
 >
 >[Mindset](102/mindset.md) <br/>
 [Markdown Syntax](102/markdown.md) <br/>
@@ -32,7 +33,7 @@
 
 <br/>
 
->Code 201 Reading Notes
+> ## Code 201 - Foundations of Software Development
 >
 >[Reading Notes Class 1](201/class-01.md)<br/>
 >[Reading Notes Class 2](201/class-02.md)<br/>
@@ -49,3 +50,11 @@
 >[Reading Notes Class 13](201/class-13.md)<br/>
 >Reading Notes Class 14<br/>
 >Reading Notes Class 15<br/>
+
+<br/>
+
+> ## Code 301 - Intermediate Software Development
+
+<br/>
+
+>## Code 401 - Advanced Software Development
