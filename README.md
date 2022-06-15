@@ -59,6 +59,8 @@
 >[Reading Notes Class 2](301/class-02.md)<br/>
 >[Reading Notes Class 3](301/class-03.md)<br/>
 >[Reading Notes Class 4](301/class-04.md)<br/>
+>[Reading Notes Class 5](301/class-05.md)<br/>
+>[Reading Notes Class 6](301/class-06.md)<br/>
 
 <br/>
 
