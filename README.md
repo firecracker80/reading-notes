@@ -55,8 +55,10 @@
 
 > ## Code 301 - Intermediate Software Development
 >
->>[Reading Notes Class 1](301/class-01.md)<br/>
+>[Reading Notes Class 1](301/class-01.md)<br/>
 >[Reading Notes Class 2](301/class-02.md)<br/>
+>[Reading Notes Class 3](301/class-03.md)<br/>
+>[Reading Notes Class 4](301/class-04.md)<br/>
 
 <br/>
 
