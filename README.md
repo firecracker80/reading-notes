@@ -64,6 +64,8 @@
 >[Reading Notes Class 7](301/class-07.md)<br/>
 >[Reading Notes Class 8](301/class-08.md)<br/>
 >[Reading Notes Class 9](301/class-09.md)<br/>
+>[Reading Notes Class 9](301/class-09.md)<br/>
+>[Reading Notes Class 10](301/class-10.md)<br/>
 
 <br/>
 
