@@ -13,7 +13,7 @@
 >
 >*Draw an example of a call stack and the functions that would need to be invoked to generate that call stack.*
 >
-> - ![Call Stack](301/callstack.jpg "Call Stack")
+> - ![Call Stack](/301/callstack.jpg "Call Stack")
 >
 >*What causes a Stack Overflow?*
 > - When a recursive function, a function that calls itself, does not have an exit point. The number of stack calls that the browser can handle before throwing a stack error is limited.
