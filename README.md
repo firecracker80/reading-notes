@@ -66,6 +66,9 @@
 >[Reading Notes Class 9](301/class-09.md)<br/>
 >[Reading Notes Class 9](301/class-09.md)<br/>
 >[Reading Notes Class 10](301/class-10.md)<br/>
+>[Reading Notes Class 11](301/class-11.md)<br/>
+>[Reading Notes Class 12](301/class-12.md)<br/>
+>[Reading Notes Class 13](301/class-13.md)<br/>
 
 <br/>
 
