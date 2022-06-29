@@ -48,8 +48,7 @@
 >[Reading Notes Class 11](201/class-11.md)<br/>
 >[Reading Notes Class 12](201/class-12.md)<br/>
 >[Reading Notes Class 13](201/class-13.md)<br/>
->Reading Notes Class 14<br/>
->Reading Notes Class 15<br/>
+
 
 <br/>
 
@@ -69,6 +68,8 @@
 >[Reading Notes Class 11](301/class-11.md)<br/>
 >[Reading Notes Class 12](301/class-12.md)<br/>
 >[Reading Notes Class 13](301/class-13.md)<br/>
+>[Reading Notes Class 14](301/class-14.md)<br/>
+>[Reading Notes Class 15](301/class-15.md)<br/>
 
 <br/>
 
