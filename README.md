@@ -1,4 +1,4 @@
-![Yajahira Velazquez](102/me.jpg "Yari")
+![Yajahira Velazquez](/102%20/me.jpg "Yari")
 
 # About Me
 
@@ -75,4 +75,5 @@
 
 >## Code 401 - Advanced Software Development
 >
->>[SQL Practice](401/SQL_Practice.md)<br/>
+>[SQL Practice](401/SQL_Practice.md)<br/>
+>[Terminal](401/terminal.md)<br/>
