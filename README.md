@@ -1,6 +1,6 @@
-![Yajahira Velazquez](102/273503247_10157974405905378_3031927852237666823_n.jpg "Yari")
+![Yajahira Velazquez](102/me.jpg "Yari")
 
-# About Me 
+# About Me
 
 > Hello! My name is, Yajahira Velazquez, Yari for short. I am an army veteran and I have a web and graphic design business. It's only a year old. Learning to code will give me the opportunity to improve my design, provide better services, and grow my client base.
 >
@@ -9,9 +9,10 @@
 > <br/>
 >
 > Contact info:
+>
 > - yari@dt-cs.com
 > - (229) 234-0373
-> - <https://dt-cs.com> 
+> - <https://dt-cs.com>
 >
 > GitHub Profile: <https://github.com/firecracker80>
 
@@ -48,7 +49,6 @@
 >[Reading Notes Class 11](201/class-11.md)<br/>
 >[Reading Notes Class 12](201/class-12.md)<br/>
 >[Reading Notes Class 13](201/class-13.md)<br/>
-
 
 <br/>
 
