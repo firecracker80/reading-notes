@@ -78,3 +78,4 @@
 >[SQL Practice](401/SQL_Practice.md)<br/>
 >[Terminal](401/terminal.md)<br/>
 >[Mindset](401/mindset.md)<br/>
+>[Reading Notes Class 1](401/class-01.md)<br/>
