@@ -80,3 +80,4 @@
 >[Mindset](401/mindset.md)<br/>
 >[Reading Notes Class 1](401/class-01.md)<br/>
 >[Reading Notes Class 2](401/class-02.md)<br/>
+>[Reading Notes Class 3](401/class-03.md)<br/>
