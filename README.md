@@ -81,4 +81,6 @@
 >[Reading Notes Class 1](401/class-01.md)<br/>
 >[Reading Notes Class 2](401/class-02.md)<br/>
 >[Data Structures](401/datastructures.md)<br/>
+>[Engineering Readings](401/engineer.md)<br/>
 >[Reading Notes Class 3](401/class-03.md)<br/>
+>[Reading Notes Class 4](401/class-04.md)<br/>
