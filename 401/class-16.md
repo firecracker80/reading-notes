@@ -23,3 +23,6 @@
 >Based on a servlet Filters, meaning it is important to look at the role it holds first. The container the request is sent in, decides which filter and servlet it will use. The servlet can only  hanlde one request at a time, but filters can be chained together in an order. This is important and is managed through @Beans and @Order to implement Ordered. The Filter also has veto power if it decides it wants to handle the request. It can also modify the request and the response.
 >
 >Spring Security is installed on a single Filter in the chain, but the reasons behind it still escape me.
+
+>## Things I would like to know more about...
+>The web security filters reason why it's installed in only one. I read it, but I didn't understand the reason. I couldn't even identify it.
