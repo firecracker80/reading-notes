@@ -84,3 +84,7 @@
 >[Engineering Readings](401/engineer.md)<br/>
 >[Reading Notes Class 3](401/class-03.md)<br/>
 >[Reading Notes Class 4](401/class-04.md)<br/>
+>[Reading Notes Class 6](401/class-06.md)<br/>
+>[Reading Notes Class 8](401/class-08.md)<br/>
+>[Reading Notes Class 9](401/class-09.md)<br/>
+>[Reading Notes Class 16](401/class-16.md)<br/>
