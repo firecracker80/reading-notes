@@ -94,3 +94,4 @@
 >[Reading Notes Class 16](401/class-16.md)<br/>
 >[Reading Notes Class 17](401/class-17.md)<br/>
 >[Reading Notes Class 18](401/class-18.md)<br/>
+>[Reading Notes Class 26](401/class-26.md)<br/>
