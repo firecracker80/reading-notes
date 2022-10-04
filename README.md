@@ -99,3 +99,5 @@
 >[Reading Notes Class 28](401/class-28.md)<br/>
 >[Reading Notes Class 29](401/class-29.md)<br/>
 >[Reading Notes Class 30](401/class-30.md)<br/>
+>[Reading Notes Class 32](401/class-32.md)<br/>
+>[Reading Notes Class 33](401/class-33.md)<br/>
