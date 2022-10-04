@@ -44,6 +44,6 @@
 >
 > - "Serverless" is slightly deceptive because there are still servers involved in backend services. The difference is the vendor is in charge of all infrastructure and server space issues allowing developers to work on their projects without having to worry about servers.
 
-## Thongs I want to know more about
+## Things I want to know more about
 
 >Amplify features.
